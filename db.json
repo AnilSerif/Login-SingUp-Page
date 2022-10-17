@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "singupUsers": [
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "password": "denemedeneme",
+      "phone": "5551112233",
+      "id": 1
+    },
+    {
+      "name": "Kemal",
+      "email": "kemal@gmail.com",
+      "password": "cacıkcacık",
+      "phone": "5551112233",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
